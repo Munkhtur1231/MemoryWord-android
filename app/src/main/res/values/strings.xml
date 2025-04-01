@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memorize Word App</string>
+    <string name="top_bar_title">Үг цээжлэх апп</string>
+    <string name="back_button">Буцах</string>
+    <string name="options">Тохиргоо</string>
+    <string name="add_word">Үг нэмэх</string>
+    <string name="edit_word">Үг засах</string>
+</resources>
